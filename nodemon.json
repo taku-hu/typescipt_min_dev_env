@@ -1,3 +1,4 @@
 {
-  "watch": ["./dist/main.js"]
+  "watch": ["dist"],
+  "ext": "js"
 }
